@@ -1,4 +1,4 @@
-﻿;La valeur attendu de l'emission(kg/MWh);L'écart-type de la valeur attendu de l'emission ;Le coût d'emision en $;Coût de carburant pour 1 Mwh en $;L'écart-type de la coût de carburant attendu;le coût attendu d'exploitation et de maintenance;L'écart-type du coût attendu d'exploitation et de maintenance; l'investissement attendu($/MW) ;L'écart-type de l'investissement attendu($/MW) 
+﻿les types de production d'électricité;La valeur attendu de l'emission(kg/MWh);L'écart-type de la valeur attendu de l'emission ;Le coût d'emision en $;Coût de carburant pour 1 Mwh en $;L'écart-type de la coût de carburant attendu;le coût attendu d'exploitation et de maintenance;L'écart-type du coût attendu d'exploitation et de maintenance; l'investissement attendu($/MW) ;L'écart-type de l'investissement attendu($/MW) 
 Gaz naturel ;514,8;2157,1;5,79;30,0;3,9; 20.000,00 ; -   ; 2.450.000,00 ; 208.250,00 
 lignite ;964,9;112,2;5,79;60,4;14,6; 40.000,00 ; -   ; 4.113.000,00 ; 349.605,00 
 charbon importé;996,2;112,2;5,79;73,0;14,6; 30.000,00 ; -   ; 4.113.000,00 ; 349.605,00 
