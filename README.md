@@ -1,1 +1,1 @@
-# tez
+# tez verileri burada duruyor
