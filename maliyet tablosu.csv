@@ -1,0 +1,13 @@
+﻿;La valeur attendu de l'emission(kg/MWh);L'écart-type de la valeur attendu de l'emission ;Coût de carburant pour 1 Mwh en $;L'écart-type de la coût de carburant attendu;le coût attendu d'exploitation et de maintenance;L'écart-type du coût attendu d'exploitation et de maintenance; l'investissement attendu($/MW) ;L'écart-type de l'investissement attendu($/MW) 
+Gaz naturel ;514,8;2157,1;30,0;3,9; 20.000,00 ; -   ; 2.450.000,00 ; 208.250,00 
+lignite ;964,9;112,2;60,4;14,6; 40.000,00 ; -   ; 4.113.000,00 ; 349.605,00 
+charbon importé;996,2;112,2;73,0;14,6; 30.000,00 ; -   ; 4.113.000,00 ; 349.605,00 
+charbon Turque;1020,1;112,2;50,0;14,6; 30.000,00 ; -   ; 4.113.000,00 ; 349.605,00 
+nucleaire ;0,0;0,0;12,1;1,0; 90.000,00 ; -   ; 10.000.000.000.000.000.000.000,00 ;0,00
+soleil;0,0;0,0;0;0; 15.000,00 ; -   ; 810.000,00 ; 68.850,00 
+éolienne;0,0;0,0;0;0; 15.000,00 ; -   ; 1.590.000,00 ; 135.150,00 
+éolien en mer;0,0;0,0;0;0; 15.000,00 ; -   ; 3.040.000,00 ; 258.400,00 
+géothermale;0,0;0,0;0;0; 40.000,00 ; -   ; 3.000.000,00 ; 255.000,00 
+biomasse ;0,0;0,0;41,5;3,9; 40.000,00 ; -   ; 2.599.000,00 ; 220.915,00 
+hydroéléctrique;0,0;0,0;0;0; 10.000,00 ; -   ; 1.350.000,00 ; 114.750,00 
+fuel-oil;601,0;66,2;58,8;4,9; 30.000,00 ; -   ; 1.280.000,00 ; 108.800,00 
