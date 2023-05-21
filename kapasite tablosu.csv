@@ -1,13 +1,13 @@
-﻿;facteur de capacité;capacité maintenant 2022(MW);anné pour construire une unité de génération;capacité d'un unité de génération
-Gaz naturel ;0,85;25343,3;2;700
-lignite ;0,85;10191,5;4;350
-charbon importé;0,85;10373,8;4;500
-charbon Turque;0,85;840,8;4;300
-nucleaire ;0,85;0;6;1000
-soleil;0,11;9425,4;1;5
-éolienne;0,3;11396,2;1;45
-éolien en mer;0,3;0;2;45
-géothermale;0,7;1691,3;3;50
-biomasse ;0,85;1921,3;1;30
-hydroéléctrique;0,5;23275,2;3;500
-fuel-oil;0,77;251,9;2;150
+les types de produciton d'électricité;facteur de capacité;capacité maintenant 2022(MW);anné pour construire une unité de génération;capacité d'un unité de génération;la limite de construction
+Gaz naturel ;0,85;25343,3;2;700;63000
+lignite ;0,85;10191,5;4;350;62650
+charbon importé;0,85;10373,8;4;500;62650
+charbon Turque;0,85;840,8;4;300;62500
+nucleaire ;0,85;0;6;1000;2000
+soleil;0,11;9425,4;1;5;62650
+éolienne;0,3;11396,2;1;45;3255
+éolien en mer;0,3;0;2;45;3000
+géothermale;0,7;1691,3;3;50;650
+biomasse ;0,85;1921,3;1;30;630
+hydroéléctrique;0,5;23275,2;3;500;3500
+fuel-oil;0,77;251,9;2;150;62500
